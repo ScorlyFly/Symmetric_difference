@@ -1,6 +1,10 @@
 name: symmetric_difference
-description: symmetric defference library
-version: 2.0.0
+description: This library only works with the specified data type.
+  This library can find unique data from more than 2 structures, in other words,
+  it is a complete replacement for imperfect methods in the dart language.
+  Programming differences and intersections
+
+version: 2.0.1
 repository: https://github.com/ScorlyFly/Symmetric_difference
 
 environment:
