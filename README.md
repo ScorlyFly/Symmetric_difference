@@ -37,7 +37,7 @@ void main() {</br>
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;2. search for dublicate items in all sets {3}</br>
-&nbsp;&nbsp;&nbsp;&nbsp;print( SymmetricSet.multiSymmetricDifference([set1,set1,set3,], intersection: true),);</br>
+&nbsp;&nbsp;&nbsp;&nbsp;print( SymmetricSet.multiSymmetricDifference([set1,set2,set3,], intersection: true),);</br>
 
 ---
 
