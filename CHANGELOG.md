@@ -1,5 +1,5 @@
-## 2.0.1
+## 2.0.2
 
 - Initial version.
-- Support symmetric difference for list and Set
-- Support symmetric intersection for more then 2 Set or List
+- Support symmetric difference for Set Type data
+- Support symmetric intersection for more then 2 Set

@@ -12,7 +12,7 @@ void main() {
   print(
     SymmetricSet.multiSymmetricDifference([
       set1,
-      set1,
+      set2,
       set3,
     ], intersection: true),
   );
